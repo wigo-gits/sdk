@@ -1,0 +1,11 @@
+{
+  "name": "@wigo/sdk",
+  "version": "0.0.1",
+  "description": "Wigo Software Development Kit",
+  "main": "./index.js",
+  "homepage": "https://github.com/wigo-gits/sdk#readme",
+  "repository": "https://github.com/wigo-gits/sdk",
+  "author": "Fabrice Marlboro",
+  "license": "Apache License",
+  "private": false
+}
